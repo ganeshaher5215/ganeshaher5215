@@ -12,12 +12,10 @@ My goal is to create impactful software that solves real-world problems.
 - React
 - Node.js
 - Git & GitHub
-- [Add more skills as you grow!]
+
 
 ## 🌟 Featured Projects
 - [Portfolio Website](https://github.com/ganeshaher5215/portfolio-website): My personal site showcasing my projects and skills.
-- [Weather App](https://github.com/ganeshaher5215/weather-app): A simple weather application using React and OpenWeatherMap API.
-- [To-Do List](https://github.com/ganeshaher5215/todo-list): A productivity app to manage daily tasks efficiently.
 
 ## 📊 GitHub Stats
 ![Ganesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ganeshaher5215&show_icons=true&theme=radical)
@@ -29,9 +27,8 @@ My goal is to create impactful software that solves real-world problems.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshaher5215&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)  
-- [Twitter](https://twitter.com/YOUR-TWITTER-USERNAME)  
-- [Personal Website](https://YOUR-WEBSITE.com)
+- [LinkedIn](https://www.linkedin.com/in/ganesh-aher-ba3abb28b/)  
+- [Personal Website](https://ganeshaher5215.github.io/react-portfolio/)
 
 ---
 
@@ -41,3 +38,4 @@ Feel free to check out my repositories and reach out if you'd like to collaborat
 <!--
 **ganeshaher5215/ganeshaher5215** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
