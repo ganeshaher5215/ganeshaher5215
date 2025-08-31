@@ -1,4 +1,3 @@
-
 # Hi there, I'm Ganesh! 👋
 
 Welcome to my GitHub profile!  
@@ -30,9 +29,9 @@ My goal is to create impactful software that solves real-world problems.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshaher5215&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/example)  
-- [Twitter](https://twitter.com/example)  
-- [Personal Website](https://example.com)
+- [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)  
+- [Twitter](https://twitter.com/YOUR-TWITTER-USERNAME)  
+- [Personal Website](https://YOUR-WEBSITE.com)
 
 ---
 
@@ -42,4 +41,3 @@ Feel free to check out my repositories and reach out if you'd like to collaborat
 <!--
 **ganeshaher5215/ganeshaher5215** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
